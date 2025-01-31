@@ -1,0 +1,16 @@
+.straight {
+    background-color: rgba(0, 0, 0, 0.886);
+    color: white;
+}
+
+.curved {
+    background-color: rgba(253, 253, 0, 0.942);
+}
+
+.straight,
+.curved {
+    font-size: 28px;
+    font-family: Helvetica, 'Times new roman', sans-serif;
+}
+
+
